@@ -1,9 +1,7 @@
 """ 
 © 2026 Rozendox. 
 All rights reserved.
-Proprietary and confidential.
-IBN: 978-1-234567-89-0
-E ISBN: 978-1-234567-89-0   
+Proprietary and confidential.  
 
 api_integration_broker.config.py
 
